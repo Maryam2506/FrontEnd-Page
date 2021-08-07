@@ -1,3 +1,12 @@
+# CORTEX COPYWRITER
+## Tiny Short Animated Website 
+### Clone the Front Page 
+⭐ What I use ⭐
+
+✔️ React Hooks
+✔️ Animation: using the latest web animation API
+
+![screencapture-frontpage-4b-surge-sh-2021-08-07-18_36_35](https://user-images.githubusercontent.com/58718438/128602067-4f84941f-65f5-4527-a73b-b508ebf10010.png)
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
